@@ -1,4 +1,5 @@
 package org.ulpgc.is1.model;
 
-public class Company {
+public class Company extends Contact{
+
 }
